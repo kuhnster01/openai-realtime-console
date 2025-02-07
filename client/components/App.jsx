@@ -1,4 +1,3 @@
-// Test comment by Rod
 import { useEffect, useRef, useState } from "react";
 import logo from "/assets/openai-logomark.svg";
 import EventLog from "./EventLog";
